@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/0607-sales-person) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
