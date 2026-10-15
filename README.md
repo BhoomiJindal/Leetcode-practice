@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-valid-emails](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3436-find-valid-emails) |
 | [3451-find-invalid-ip-addresses](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3475-dna-pattern-recognition) |
 ## Array
 |  |
 | ------- |
