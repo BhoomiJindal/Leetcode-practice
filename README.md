@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-find-invalid-ip-addresses](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3475-dna-pattern-recognition) |
+| [3482-analyze-organization-hierarchy](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3482-analyze-organization-hierarchy) |
 ## Array
 |  |
 | ------- |
