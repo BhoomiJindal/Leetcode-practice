@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3521-find-product-recommendation-pairs](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3564-seasonal-sales-analysis) |
+| [3570-find-books-with-no-available-copies](https://github.com/BhoomiJindal/Leetcode-practice/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
 |  |
 | ------- |
